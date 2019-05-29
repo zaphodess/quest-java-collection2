@@ -5,7 +5,7 @@ public class Thanos {
 
     public static void main(String[] args) {
 
-        List<Hero> heroes = new ArrayList();
+        List<Hero> heroes = new ArrayList<>();
         heroes.add(new Hero("Hulk", 49));
         heroes.add(new Hero("Black Widow", 34));
         heroes.add(new Hero("Captain America", 100));
